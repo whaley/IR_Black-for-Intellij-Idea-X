@@ -2,12 +2,12 @@
 <scheme name="IR_Black" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="69cbfe" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="c6c5fe" />
     <option name="CARET_COLOR" value="ffffcc" />
-    <option name="CARET_ROW_COLOR" value="0" />
+    <option name="CARET_ROW_COLOR" value="333333" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="FOLDING_TREE_COLOR" value="ffffff" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
@@ -2284,4 +2284,3 @@
     </option>
   </attributes>
 </scheme>
-
